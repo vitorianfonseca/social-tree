@@ -1,6 +1,7 @@
 # Social Tree
 
-![previw portfolio](https://user-images.githubusercontent.com/113269524/211428599-f21ebd22-b0e1-4d0f-bf5c-dfedd8cf7a0f.png)
+![previw social-tree](https://user-images.githubusercontent.com/113269524/211620284-d09ae3ca-1cf7-46af-aa1f-eebe44970c07.png)
+
 
 Projeto contruído dos desafios do Discover da Rocketseat. 
 
