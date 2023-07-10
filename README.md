@@ -5,7 +5,7 @@
 
 Projeto contruído dos desafios do Discover da Rocketseat. 
 
-[Clique aqui para acessar](https://v1fonseca911.github.io/social-tree/)
+[Clique aqui para acessar](https://alura-book-4ddv-git-main-v1fonseca911.vercel.app/)
 
 
 ## Tecnologias
